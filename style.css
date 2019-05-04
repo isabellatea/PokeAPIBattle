@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+#header {
+	width: 100%;
+	text-align: center;
+}
+
+#container {
+	display: flex;
+	flex-direction: column;
+}
+
+#battleArea {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#left {
+	background-color: lightpink;
+}
+
+#right {
+	background-color: lightblue;
+}
+
+.poke-img {
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+
+.poke-img-winner {
+	display: block;
+	width: 250px;
+	height: 250px;
+}
+
+#battleButton {
+	width: 250px;
+	margin: 50px auto;
+}
+
+#winnerPokemon {
+	margin: 0 auto;
+}
