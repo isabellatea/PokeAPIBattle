@@ -8,7 +8,7 @@ Example Solution: https://coach-stephanie.github.io/pokebattle/
 
 
 
-#WIP:
+
 ## Lesson
 
 ### JSON Objects
