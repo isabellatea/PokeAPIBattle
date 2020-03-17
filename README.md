@@ -5,7 +5,8 @@
 * **Created By:** Stephanie Burgos (coach-stephanie)
 
 Example Solution: https://coach-stephanie.github.io/pokebattle/
-![screenshot](http://i64.tinypic.com/65vb50.png)
+
+(Screenshot Coming Soon)
 
 
 
