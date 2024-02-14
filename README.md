@@ -8,8 +8,30 @@ Example Solution: https://coach-stephanie.github.io/pokebattle/
 
 (Screenshot Coming Soon)
 
+## Installation
+Before running the PokeAPI Battle project, ensure you have the following installed:
 
+  - Node.js: visit the official website (https://nodejs.org/en) to install
 
+Once Node.js is installed, follow these steps to setup the project locally:
+
+1. Fork the repository to your Github account
+2. Clone the repository to your local machine using this command:
+```
+git clone https://github.com/username/PokeAPIBattle.git
+```
+3. Navigate to the project directory:
+```
+cd PokeApiBattle
+```
+4. Install the necessary dependencies using npm:
+```
+npm install
+```
+5. After installing the dependencies, start the development server by running:
+```
+npm start
+```
 
 ## Lesson
 
@@ -68,6 +90,16 @@ for (var key in objectName) {
 * **Challenge Three:**
   - The page is quite basic looking… customize your page by adding your flair to the CSS!
   - We will be working on the “Battle” mechanics and general win/lose game design algorithms next week. If you feel that you want to start this now, feel free to do so :)  
+
+## Game Mechanics
+* **Random Pokemon:**
+  - You must get a random pokemon on each battle side using the PokeAPI and put them to battle to determine the winner
+
+
+* **Battle Mechanics:**
+  - There is the possibility for a winner, loser, or a tie. The battle mechanics are up to you but there must be these three possibilities. In the example solution above, the battle is based solely on which Pokemon's attack stat is higher. Other battle mechanics may include summing up all base stats and determining which total is higher or finding the higher difference between the opponent's health stat and the attack stat of the other Pokemon.
+
+  - There are several possibilities for battle mechanics but these are some suggestions for starting out, it can go much more in-depth such as to add moves, health bar, etc.
 
 
 
